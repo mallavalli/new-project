@@ -2,7 +2,6 @@
 DEV
 this for developemnt tea,
 
-#!/bin/bash
 # Counting the number of lines in a list of files
 # for loop over arguments
 
